@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">GasolineOrAlcohol</string>
+    <string name="app_name">Gasolina ou Alcool</string>
+
+    <string name="tv_main_act_description">Informe o preço e saiba qual o melhor para o seu bolso</string>
+    <string name="tv_main_act_gas">Valor da gasolina</string>
+    <string name="tv_main_act_alcohol">Valor do alcool</string>
+    <string name="btn_main_act_calc">Calcular</string>
 </resources>

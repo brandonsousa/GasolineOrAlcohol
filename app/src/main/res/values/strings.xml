@@ -5,4 +5,5 @@
     <string name="tv_main_act_gas">Valor da gasolina</string>
     <string name="tv_main_act_alcohol">Valor do alcool</string>
     <string name="btn_main_act_calc">Calcular</string>
+    <string name="tv_main_act_response"></string>
 </resources>

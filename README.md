@@ -1,2 +1,2 @@
 # GasolineOrAlcohol
-simple app that tells you the value of whether it is better to fill up with alcohol or gasoline, developed in kotlin for language study
+simple application that informs the value that is best to supply with alcohol or gasoline, developed in kotlin for the study, with implementation of tests with JUnit
